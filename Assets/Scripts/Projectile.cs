@@ -17,4 +17,9 @@ public class Projectile : MonoBehaviour
     {
         _velocity = velocity;
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        Destroy(gameObject);
+    }
 }
