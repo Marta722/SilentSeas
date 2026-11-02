@@ -557,8 +557,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f14fe4245bc78b43b3ec65ae058f1cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  projectilePrefab: {fileID: 0}
-  projectileVelocity: 0
+  projectilePrefab: {fileID: 6340242756577024664, guid: aa8a5cb251ffd4f4b8b24814e6625701, type: 3}
+  projectileVelocity: 3.1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
