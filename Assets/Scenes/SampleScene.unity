@@ -559,6 +559,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   projectilePrefab: {fileID: 6340242756577024664, guid: aa8a5cb251ffd4f4b8b24814e6625701, type: 3}
   projectileVelocity: 3.1
+  fire: {fileID: -2096150648960564228, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
