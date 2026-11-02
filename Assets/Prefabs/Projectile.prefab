@@ -45,6 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15cc3325841e0d942adaabe2569fb3ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  lifetime: 1.5
 --- !u!212 &1425345979065346649
 SpriteRenderer:
   serializedVersion: 3
