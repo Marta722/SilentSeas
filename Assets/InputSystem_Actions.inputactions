@@ -97,9 +97,19 @@
                     "priority": 0
                 },
                 {
-                    "name": "Fire",
+                    "name": "FireRight",
                     "type": "Button",
                     "id": "15f0e84a-6ad0-404b-a4a6-244be97929ab",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "FireLeft",
+                    "type": "Button",
+                    "id": "625ee244-547a-4058-95a6-68caa34e8c3f",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -496,11 +506,22 @@
                 {
                     "name": "",
                     "id": "9bfa2cc6-0b3b-462a-a8b5-3a4acbaf70e8",
-                    "path": "<Keyboard>/space",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "FireRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d8de4d34-86cc-43a2-b6aa-4ae8c4ade4fa",
+                    "path": "<Keyboard>/q",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Fire",
+                    "action": "FireLeft",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
